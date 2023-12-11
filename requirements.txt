@@ -1,0 +1,11 @@
+numpy
+scipy
+numba
+nibabel
+jupyter
+matplotlib
+scikit-image
+joblib
+jupyterlab
+ipywidgets
+napari
